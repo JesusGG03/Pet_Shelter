@@ -6,7 +6,7 @@ This program demonstrates core OOP concepts while integrating real-world functio
 
 
 
-<h2>Technologies and Concenpts</h2>
+<h2>Technologies and Concepts</h2>
 <ul>
   <li>Language: Java</li>
   <li>Core Concepts</li>
